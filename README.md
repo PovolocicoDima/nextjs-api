@@ -1,1 +1,1 @@
-# Учебный проект на NextJS
+# Progect page: nextjs-api.povolocico-dima.online
